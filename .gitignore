@@ -1,0 +1,13 @@
+node_modules
+dist
+.project
+.idea
+.tmp
+.sass-cache
+coverage
+**/.DS_Store
+**/*.map
+.tscache
+*.iml
+junit
+typings
